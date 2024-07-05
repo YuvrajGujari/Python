@@ -32,7 +32,7 @@ tuple1 = (1, 2, 3, 4, 5)
 tuple2 = tuple(list1 + list2)+ tuple1
 tuple2
 
-Built-in Tuple Functions and Methods
+#Built-in Tuple Functions and Methods
 
 tuple1.count(3)      #tuple.count()
 
