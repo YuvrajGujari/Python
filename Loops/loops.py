@@ -195,8 +195,9 @@ for iterator in range(start, end, increment):
 
 for number in range(11):
     print(number)   # prints 0 to 10, not including 11
-Nested For Loop
-We can write loops inside a loop.
+
+
+#Nested For Loop
 
 # syntax
 for x in y:
@@ -240,7 +241,7 @@ else:
     print('The loop stops at', number)
 
 
-Pass
+#Pass
 
 #In python when statement is required (after semicolon), but we don't like to execute any code there, we can write the word pass to avoid errors.
 
